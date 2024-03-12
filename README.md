@@ -36,7 +36,7 @@ You can try my project here -> https://охрана-труда-документ�
 ⍻ The client is shown the exchange rate and the amount required in rub or USDT
 
 ⍻ The client can place an order, then the admin will receive a message about the order, and each order is given a unique ID
-The commission will accrue depending on the volume
+The commission will increase depending on the volume
 
 ⍻ The admin can accept or reject the order
 ⍻ It is possible to communicate with the client via a bot
@@ -45,5 +45,6 @@ The commission will accrue depending on the volume
 
 ⍻ All data is recorded in the database, and the admin can view statistics, completed orders, orders in progress
 
-⍻ The admin also has a calculator that converts currencies, possible with a commission, possible without
+⍻ The admin also has a calculator that converts currencies, possible with a commission and possible without any commission
+
 
