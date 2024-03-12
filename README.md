@@ -1,7 +1,7 @@
 # Hi! I'm Gleb Petrov, a web-developer from TESART!
 
 
-## My pojects:
+## My projects:
 
 ### Labor-Protection - a web-application for Occupational Safety and Health for your's workers!
 
@@ -20,7 +20,7 @@ And enter your employees directly from Excel
 
 ⍻ And then download the report (docx), which will automatically insert all selected positions into the table
 
-You can try my project this -> https://охрана-труда-документы.online
+You can try my project here -> https://охрана-труда-документы.online
 
 
 ### 4EXCHANGE - a telegram bot for exchange rub to bat, or usdt to bat
