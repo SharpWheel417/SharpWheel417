@@ -1,11 +1,11 @@
-Hi! I'm Gleb Petrov, a web-developer from TESART!
+# Hi! I'm Gleb Petrov, a web-developer from TESART!
 
 
-My pojects:
+## My pojects:
 
-Labor-Protection - a web-application for Occupational Safety and Health for your's workers!
+### Labor-Protection - a web-application for Occupational Safety and Health for your's workers!
 
-Stack: 🐹Golang, Bootstrap, html, js, css, 🐘PostgreSQL, using 🐳Docker
+#### Stack: 🐹Golang, Bootstrap, html, js, css, 🐘PostgreSQL, using 🐳Docker
 
 📊 A lot of work has been done
 
