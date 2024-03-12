@@ -23,17 +23,17 @@ And enter your employees directly from Excel
 You can try my project here -> https://охрана-труда-документы.online
 
 
-### 4EXCHANGE - a telegram bot for exchange rub to bat, or usdt to bat
+### 4EXCHANGE - a telegram bot for exchanging rub to thb, or usdt to thb
 
 #### Stack: 🐍Python, 🐘PostgreSQL, using 🐳Docker, Selenium, try MVC model
 
 ⍻ The bot parses the site every hour and receives the USDT/THB rate
 
-⍻ The client selects the amount in baht
+⍻ The client selects the amount in thb
 
 ⍻ With each client request for exchange, the bot parses Comtech and selects from there the average rate suitable for the volume and payment method
 
-⍻ The client is shown the exchange rate and the amount required in rubles or USDT
+⍻ The client is shown the exchange rate and the amount required in rub or USDT
 
 ⍻ The client can place an order, then the admin will receive a message about the order, and each order is given a unique ID
 The commission will accrue depending on the volume
