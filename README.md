@@ -1,4 +1,15 @@
-# Hi! I'm Gleb Petrov, a web-developer from TESART!
+# Hi! I'm Gleb Petrov, a developer from TESART!
+
+## 🚀 Quick Overview
+
+
+## ⚡ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-007ACC?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## My projects:
@@ -46,5 +57,3 @@ The commission will increase depending on the Amount
 ⍻ All data is recorded in the database, and the admin can view statistics, completed orders, orders in progress
 
 ⍻ The admin also has a calculator that converts currencies, possible with a commission and possible without any commission
-
-
