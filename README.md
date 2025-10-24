@@ -1,4 +1,4 @@
-# Hi! I'm Gleb Petrov, a developer from TESART!
+# Hi! I'm Gleb Petrov, a Software developer!
 
 ## 🚀 Quick Overview
 
